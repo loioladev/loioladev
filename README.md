@@ -1,16 +1,27 @@
-### Hi there 👋
+![Banner Image](images/Banner.jpg)
 
-<!--
-**Matheus-Loiola/Matheus-Loiola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
 
-Here are some ideas to get you started:
+Currently, I am pursuing a Bachelor of Computer Science from Instituto Federal de Brasília and looking for a internship!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Learning
+
+ - 🦀 Rust
+ - 🐍 Python
+ - 🏛️ Data structures and algorithms
+
+### 📫 Reach me!
+
+- 💬 Feel free to contact me for collaboration in projects or chatting :D 
+-  Reach me: **[Linkedin](https://www.linkedin.com/in/loioladev/)**
+
+### 💻 Current project 
+
+- [DS-Contest-tools](https://github.com/danielsaad/ds-contest-tools/)
+
+### 📅 Hobbies
+
+- Solve programming problems at Codeforces, Atcoder and OnlineJudge
+- Watch anime and read manga
+- Read Stephen King's books
+
