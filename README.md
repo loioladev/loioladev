@@ -9,15 +9,3 @@ I'm a Computer Scientist from Brazil. Currently, I am enrolled in a cientific in
 My linkedin is always open for new connections!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-400080?style=for-the-badge&logo=linkedin&logoColor=00000)](https://www.linkedin.com/in/loioladev/)
-
-
-## Stats
-
-<div style="text-align: center;">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=loioladev&theme=nightowl&show_icons=true&border_color=400080&text_color=FFF&hide=stars)
-
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=loioladev&layout=compact&theme=nightowl&border_color=400080&text_color=FFF)
-
-</div>
