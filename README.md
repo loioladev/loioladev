@@ -2,7 +2,7 @@
 
 # Hello there 👋
 
-I'm a Computer Scientist from Brazil. Currently, I am enrolled in a cientific initiation project about artificial intelligence and machine learning. I'm passionate about algorithms and data structures, and I'm always looking to learn more!
+I'm a Computer Scientist from Brazil, almost graduated from college! I'm passionate about algorithms, data structures and machine learning, and I strive to make the world better as a Software and AI Developer!
 
 ## 📫 How to reach me
 
