@@ -16,8 +16,9 @@ I’m a Computer Science student from Brazil, nearing graduation. I’m passiona
 
 ## 🛠️ Skills
 
--**Main programming languages**: Python and C++
--**Areas of Expertise**: Deep Learning, Reinforcement Learning, Computer Vision, Medical Image Processing, Peptide design
+- **Main programming languages**: Python and C++
+- **Areas of Expertise**: Deep Learning, Reinforcement Learning, Computer Vision, Medical Image Processing, Peptide design
+
 🚧 The rest is under construction 🚧
 
 ## 📫 How to reach me
